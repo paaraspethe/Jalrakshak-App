@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "242091814600",
+    "firebase_url": "https://jalsanrakshan-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jalsanrakshan",
+    "storage_bucket": "jalsanrakshan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242091814600:android:199cfe90ce66e61849fffd",
+        "android_client_info": {
+          "package_name": "com.example.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242091814600-76cv4nm0cf0gg5ia95ak9g60eeje7ns4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project4",
+            "certificate_hash": "49f5125309e6a11d1bab46cb4584c4d9a4a4c895"
+          }
+        },
+        {
+          "client_id": "242091814600-dokd69qd6fl83bdq8atc4ijgnp2c2asi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYvpzc9WImz3JYWnfTN8l257IwATg7Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242091814600-dokd69qd6fl83bdq8atc4ijgnp2c2asi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "242091814600-8uvbst1dh1aoejurjj0osc6pivfebsvf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project4.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

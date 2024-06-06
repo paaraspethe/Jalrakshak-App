@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAiv09QNfMvPu8xzz_0-GGM9cJCJF4uJao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>881212351663</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.project4.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>jaladhyayn</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jaladhyayn.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:881212351663:ios:05db59fc06613405a3205a</string>
+	<key>DATABASE_URL</key>
+	<string>https://jaladhyayn-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
